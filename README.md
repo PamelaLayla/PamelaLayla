@@ -1,2 +1,3 @@
 - 👋 @PamelaLayla
+- Técnica em Informática 
 
